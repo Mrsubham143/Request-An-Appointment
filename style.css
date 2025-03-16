@@ -1,0 +1,38 @@
+body{
+    background-image: url(doctor\ app.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+textarea {
+    height: 200px;
+    width: 900px;
+  }
+  
+  button {
+    background-color: rgb(59, 3, 3);
+    color: aliceblue;
+    
+  }
+
+  
+  div{
+    margin-right: 50px;
+    display: inline;
+    margin: 50px;
+  }
+  
+  label {
+    font-style: italic;
+  }
+
+ 
+  .btn{
+    background-color: black;
+    color: white;
+    margin: 0 20%;
+    display: inline;
+  }
+
+
